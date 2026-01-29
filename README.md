@@ -44,8 +44,6 @@ Multiple users can attempt to book the same slot concurrently, but the system gu
 - View slots
 - Cancel any booking
 
-Authorization is enforced using **Spring Security method-level security** using `@PreAuthorize`.
-
 ---
 
 ## Data Model
