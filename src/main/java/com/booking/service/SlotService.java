@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import com.booking.entity.Slot;
-import com.booking.entity.SlotStatus;
+import com.booking.entity.enums.SlotStatus;
 import com.booking.repository.SlotRepository;
 
 import lombok.RequiredArgsConstructor;

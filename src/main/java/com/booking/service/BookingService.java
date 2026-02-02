@@ -7,9 +7,9 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 
 import com.booking.entity.Booking;
-import com.booking.entity.BookingStatus;
 import com.booking.entity.Slot;
-import com.booking.entity.SlotStatus;
+import com.booking.entity.enums.BookingStatus;
+import com.booking.entity.enums.SlotStatus;
 import com.booking.exception.BookingNotFoundException;
 import com.booking.exception.SlotAlreadyBookedException;
 import com.booking.exception.SlotNotFoundException;

@@ -2,6 +2,8 @@ package com.booking.entity;
 
 import java.time.LocalDateTime;
 
+import com.booking.entity.enums.SlotStatus;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
