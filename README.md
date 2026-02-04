@@ -1,4 +1,4 @@
-# Booking System with Race Condition Protection
+# Booking System 
 
 ## Overview
 
